@@ -1,1 +1,1 @@
-This repo contains the monty project files
+This dir contains files for the monty project
